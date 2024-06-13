@@ -1,1 +1,2 @@
-Initial release
+Added Udfps icons and animations
+Updated Maintainer name
