@@ -2,3 +2,4 @@ July Security patch
 Added Derpfest copycat Ringtone 
 Fixed Island Notification
 AOD pulse
+Various fixes from source by Joey and Other Devs
