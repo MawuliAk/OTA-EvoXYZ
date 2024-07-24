@@ -1,2 +1,4 @@
-Added Udfps icons and animations
-Updated Maintainer name
+July Security patch
+Added Derpfest copycat Ringtone 
+Fixed Island Notification
+AOD pulse
