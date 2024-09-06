@@ -1,5 +1,3 @@
-July Security patch
-Added Derpfest copycat Ringtone 
-Fixed Island Notification
-AOD pulse
-Various fixes from source by Joey and Other Devs
+September update
+Kernel Tree is now erofs 
+No other changes except from new features added in version 9.4
